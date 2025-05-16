@@ -4,8 +4,8 @@ Olá, eu sou o Vinicius Oliveira 😉
 - 🌱 Atualmente estou estudando assuntos de devops, Vagrant, Terraform, Docker, GitActions, Kubernetes, AWS e outras coisas. 
 
 <div> 
-<a href="https://github.com/Vinitech93">
-<img height= "180em" src="https://github-readme-stats.vercel.app/api?username=Vinitech93&show_icons=true&theme=dark"/>
+<a href="https://github.com/vinioliveira93">
+<img height= "180em" src="https://github-readme-stats.vercel.app/api?username=vinioliveira93&show_icons=true&theme=dark"/>
 </div>
 
 ##
